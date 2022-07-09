@@ -1,0 +1,4 @@
+///die
+KillPlayer();
+
+
